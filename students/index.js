@@ -10,16 +10,16 @@ app.use((req, res, next) => {
 
 const students = [
   {
-    name: "Kyky de Bondy",
+    name: "Mbappe",
   },
   {
-    name: "Presko",
+    name: "Presnel",
   },
   {
-    name: "Pulga",
+    name: "Lionel",
   },
   {
-    name: "Ney",
+    name: "Neymar",
   },
 ];
 
